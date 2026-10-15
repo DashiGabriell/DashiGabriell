@@ -1,66 +1,48 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
-
-<p align="center">
-  <b>Desenvolvedor Full Stack</b> · apaixonado por criar produtos digitais úteis, bonitos e bem construídos.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-farias-santos/"><img src="https://img.shields.io/badge/LinkedIn-0D47C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.linkedin.com/newsletters/dashi-insights-%25F0%259F%2590%25B0%25F0%259F%25A7%2591%25F0%259F%258F%25BD%25E2%2580%258D%25F0%259F%2592%25BB-7488276586358558721/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Dashi%20Insights-FF5A00?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Portfólio" /></a>
-</p>
-
----
-
-## 🧑‍💻 Sobre mim
-
-Sou desenvolvedor focado em construir aplicações web completas, do front-end ao banco de dados. Gosto de transformar ideias em produtos reais, com interfaces cuidadosas, código organizado e boa experiência para quem usa.
-
-- 🔭 Atualmente trabalhando em projetos web, apps e automações
-- 🌱 Sempre aprendendo algo novo, especialmente sobre IA aplicada ao desenvolvimento
-- 💬 Pode falar comigo sobre React, TypeScript, Laravel e arquitetura de aplicações
-- ⚡ Curiosidade: também crio jogos e experimentos visuais nas horas vagas
-
----
-
-## 🚀 Stack principal
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" width="100%" alt="Olá, eu sou o Gabriel. Desenvolvedor Full Stack apaixonado por criar produtos digitais úteis, bonitos e bem construídos." />
+</picture>
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://www.linkedin.com/in/gabriel-farias-santos/"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/newsletters/dashi-insights-%25F0%259F%2590%25B0%25F0%259F%25A7%2591%25F0%259F%258F%25BD%25E2%2580%258D%25F0%259F%2592%25BB-7488276586358558721/"><img src="./assets/btn-portfolio.svg" height="48" alt="Portfólio · Dashi Insights" /></a>
 </p>
 
-## 🧰 Também trabalho com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sobre-dark.svg" />
+  <img src="./assets/sobre-light.svg" width="100%" alt="Sobre mim: desenvolvedor focado em construir aplicações web completas, do front-end ao banco de dados." />
+</picture>
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <img src="./assets/stack-light.svg" width="100%" alt="Stack principal: TypeScript, React, JavaScript, HTML, CSS, Laravel e PostgreSQL. Também trabalho com PHP, Python, Dart, Kotlin, Java, GDScript e Git." />
+</picture>
 
----
-
-## 📊 Estatísticas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
+  <img src="./assets/stats-light.svg" width="100%" alt="No GitHub: atividade e linguagens." />
+</picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DashiGabriell&show_icons=true&hide_border=true&locale=pt-br&title_color=FF5A00&icon_color=F4F4F4&text_color=F4F4F4&bg_color=0D47C9,002B8F" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashiGabriell&layout=compact&hide_border=true&locale=pt-br&title_color=FF5A00&text_color=F4F4F4&bg_color=0D47C9,002B8F" alt="Linguagens mais usadas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DashiGabriell&show_icons=true&locale=pt-br&border_radius=0&title_color=E8EEFF&text_color=A1A2A6&icon_color=FF7A1A&bg_color=1A1D26&border_color=2A3550" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=DashiGabriell&show_icons=true&locale=pt-br&border_radius=0&title_color=002B8F&text_color=737373&icon_color=FF5A00&bg_color=F7F8FB&border_color=D9DFEE" alt="Estatísticas do GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DashiGabriell&layout=compact&locale=pt-br&border_radius=0&title_color=E8EEFF&text_color=A1A2A6&bg_color=1A1D26&border_color=2A3550" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashiGabriell&layout=compact&locale=pt-br&border_radius=0&title_color=002B8F&text_color=737373&bg_color=F7F8FB&border_color=D9DFEE" alt="Linguagens mais usadas" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DashiGabriell&hide_border=true&locale=pt_BR&background=0D47C9,002B8F&stroke=FF5A00&ring=FF7A1A&fire=FF5A00&currStreakNum=F4F4F4&sideNums=F4F4F4&currStreakLabel=FF7A1A&sideLabels=F4F4F4&dates=8FB0FF" alt="Sequência de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DashiGabriell&locale=pt_BR&border_radius=0&background=1A1D26&border=2A3550&stroke=2A3550&ring=FF7A1A&fire=FF7A1A&currStreakNum=E8EEFF&sideNums=E8EEFF&currStreakLabel=FF7A1A&sideLabels=A1A2A6&dates=A1A2A6" />
+    <img src="https://streak-stats.demolab.com?user=DashiGabriell&locale=pt_BR&border_radius=0&background=F7F8FB&border=D9DFEE&stroke=D9DFEE&ring=FF5A00&fire=FF5A00&currStreakNum=002B8F&sideNums=002B8F&currStreakLabel=FF5A00&sideLabels=737373&dates=737373" alt="Sequência de contribuições" />
+  </picture>
 </p>
 
----
-
-<p align="center">
-  <i>Obrigado pela visita! Fique à vontade para explorar meus repositórios. 🚀</i>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <img src="./assets/footer-light.svg" width="100%" alt="Obrigado pela visita! Fique à vontade para explorar meus repositórios." />
+</picture>

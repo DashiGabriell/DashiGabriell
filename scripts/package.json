@@ -1,0 +1,11 @@
+{
+  "name": "dashigabriell-readme-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build-svgs.mjs"
+  },
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}
