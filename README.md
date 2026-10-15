@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-farias-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.linkedin.com/newsletters/dashi-insights-%25F0%259F%2590%25B0%25F0%259F%25A7%2591%25F0%259F%258F%25BD%25E2%2580%258D%25F0%259F%2592%25BB-7488276586358558721/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Dashi%20Insights-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-farias-santos/"><img src="https://img.shields.io/badge/LinkedIn-0D47C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/newsletters/dashi-insights-%25F0%259F%2590%25B0%25F0%259F%25A7%2591%25F0%259F%258F%25BD%25E2%2580%258D%25F0%259F%2592%25BB-7488276586358558721/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Dashi%20Insights-FF5A00?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Portfólio" /></a>
 </p>
 
 ---
@@ -51,12 +51,12 @@ Sou desenvolvedor focado em construir aplicações web completas, do front-end a
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DashiGabriell&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashiGabriell&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DashiGabriell&show_icons=true&hide_border=true&locale=pt-br&title_color=FF5A00&icon_color=F4F4F4&text_color=F4F4F4&bg_color=0D47C9,002B8F" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashiGabriell&layout=compact&hide_border=true&locale=pt-br&title_color=FF5A00&text_color=F4F4F4&bg_color=0D47C9,002B8F" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DashiGabriell&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=DashiGabriell&hide_border=true&locale=pt_BR&background=0D47C9,002B8F&stroke=FF5A00&ring=FF7A1A&fire=FF5A00&currStreakNum=F4F4F4&sideNums=F4F4F4&currStreakLabel=FF7A1A&sideLabels=F4F4F4&dates=8FB0FF" alt="Sequência de contribuições" />
 </p>
 
 ---
